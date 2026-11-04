@@ -40,4 +40,4 @@ Una entrada al final de cada sesión: fecha, qué has hecho y qué te ha costado
 
 ## Git (opcional)
 
-Si llevas el proyecto en Git, pon aquí el enlace al repositorio:
+Si llevas el proyecto en Git, pon aquí el enlace al repositorio: https://github.com/carlaonweb/Proyecto-DWES/tree/0main/fase1
