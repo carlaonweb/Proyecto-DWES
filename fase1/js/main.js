@@ -1,8 +1,13 @@
 // Menú del programa. Se ejecuta al abrir index.html.
 //
 // Hito 1: muestra aquí tus tres arrays con console.table.
+console.log("ACTIVIDADES");
 console.table(actividades);
+
+console.log("SOCIOS");
 console.table(socios);
+
+console.log("INSCRIPCIONES");
 console.table(inscripciones);
 //
 // Hito 4: convierte este fichero en un menú que
@@ -13,3 +18,6 @@ console.table(inscripciones);
 //   - resiste que el usuario cancele, deje la entrada vacía o escriba una opción que no existe
 
 console.log("La plantilla funciona. Abre la consola (F12) para ver tus resultados.");
+
+
+

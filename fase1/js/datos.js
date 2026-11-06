@@ -2,7 +2,7 @@
 
 // Actividades: id, nombre, monitor, tipo, plazas, cuota
 const A_ID = 0, A_NOMBRE = 1, A_MONITOR = 2,
-      A_TIPO = 3, A_PLAZAS = 4, A_CUOTA = 5;
+    A_TIPO = 3, A_PLAZAS = 4, A_CUOTA = 5;
 
 const actividades = [
     [1, "Escalada indoor", "Marta Díaz", "aventura", 10, "38,50"],
