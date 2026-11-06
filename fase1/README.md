@@ -26,10 +26,13 @@ Explícalo en 2 o 3 líneas, con tus palabras (Hito 3).
 
 Una entrada al final de cada sesión: fecha, qué has hecho y qué te ha costado o qué has preguntado.
 
-- 04/14/2026 · Hecho: El hito 1 completo
+- 04/11/2026 · Hecho: El hito 1 completo
   Me ha costado: ...
   He preguntado: ...
 
+- 06/11/2026 . Hecho: El hito 2 completo
+  Me ha costado: la realización de las pruebas para las consultas
+  He preguntado: he consultado junto con el documento y la ia la realizacion de las pruebas y correciones en las funciones
 ## Uso de IA
 
 - Herramienta: ChatGPT.
